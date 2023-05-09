@@ -1,3 +1,3 @@
 # pikaajl.github.io
 
-https://pikaajl.github.io/webartest1/
+https://pikaajl.github.io
